@@ -29,7 +29,7 @@ Copy code
 ---
 
 ## ⚙️ Installation
-```bash
+
 git clone https://github.com/venkatesh-data/sports-video-classifier-vgg.git
 cd sports-video-classifier-vgg
 pip install -r requirements.txt
